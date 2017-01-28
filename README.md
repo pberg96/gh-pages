@@ -1,3 +1,8 @@
 # This is my Header
-## Here is a smaller one
+
+1. Create a List
+* This
+* Is
+* a
+* list
 
