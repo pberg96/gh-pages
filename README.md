@@ -15,7 +15,8 @@
 | COMP 431        | Sitteron 14   | M/W   |
 | RELI 207        | Phillips 204  | M/W   |
 
-3. Additional Reading
+
+Additional Reading
 - [ConnectCarolina](https://www.connectcarolina.unc.edu)
 - [Sakai](https://www.Sakai.unc.edu)
 
