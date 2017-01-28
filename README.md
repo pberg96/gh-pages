@@ -16,7 +16,7 @@
 | RELI 207        | Phillips 204  | M/W   |
 
 
-Additional Reading
+# Additional Reading
 - [ConnectCarolina](https://www.connectcarolina.unc.edu)
 - [Sakai](https://www.Sakai.unc.edu)
 
