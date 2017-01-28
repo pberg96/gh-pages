@@ -15,7 +15,7 @@
 | COMP 431        | Sitteron 14   | M/W   |
 | RELI 207        | Phillips 204  | M/W   |
 
-Some Links
+3. Additional Reading
 - [ConnectCarolina](https://www.google.com)
 - [Sakai](https://www.Sakai.com)
 
