@@ -16,7 +16,7 @@
 | RELI 207        | Phillips 204  | M/W   |
 
 Some Links
-* [ConnectCarolina](https://www.google.com)
-* [Sakai](https://www.Sakai.com)
+- [ConnectCarolina](https://www.google.com)
+- [Sakai](https://www.Sakai.com)
 
 
